@@ -25,7 +25,7 @@
 
     <footer class="footer">
       <div class="container">
-        <span class="text-muted">Seriously, more will be here soon.</span>
+        <span class="text-muted">Seriously, more will be here soon. We think.</span>
       </div>
     </footer>
     
